@@ -23,14 +23,14 @@ repository               : "mw742/mw742.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/IMG.JPG"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Harvard University & Stanford University"
+  employer         : #"Harvard University & Stanford University"
   uri              : # URL
-  email            : "mw742@harvard.edu; mw742@stanford.edu" 
+  email            : #"mw742@harvard.edu; mw742@stanford.edu" 
 
   # Academic websites
   academia         : # URL
