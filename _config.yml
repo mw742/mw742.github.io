@@ -24,9 +24,9 @@ repository               : "mw742/mw742.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Mengman Wei"
+  name             : #"Mengman Wei"
   pronouns         : # example: "she/her"  
-  bio              : "computational neuroscience, genetics, and machine learning"
+  bio              : "Computational neuroscience, Genetics, and Machine learning"
   location         : "Earth"
   employer         : #"Harvard University & Stanford University"
   uri              : # URL
