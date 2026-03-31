@@ -6,10 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<p align="justify">
 I am currently a postdoctoral researcher in computational neuroscience, genetic analysis, and machine learning at the Scripps Research Institute. My research focuses on developing quantitative models to understand human behavior.
 
-I view the human body as a complex system. Genetic factors—including DNA variation, gene-based signals, and gene expression—form the biological foundation that influences traits such as physical strength, height, weight, and brain function. Building on this foundation, I incorporate environmental factors as key inputs and stimuli, including family upbringing, parental monitoring, peer influence, neighborhood conditions, and educational environments etc.
+I view the human body as a complex system. Everything we see, hear, and experience acts as input. Our genes provide the basic information we carry, and the brain processes all inputs as a central system. Our behaviors are the output, shaped by both genetic factors and environmental influences.
+
+Genetic factors—including DNA variation, gene-based signals, and gene expression—form the biological foundation. They influence traits such as physical strength, height, weight, and brain function.
+
+On top of this foundation, environmental factors act as important inputs. These include family upbringing, parental monitoring, peer influence, neighborhood conditions, and educational environments etc.
+
+By studying how these inputs are processed over time, we can better understand why mental health problems develop. This is especially important for long-term patterns, such as substance use disorders and externalizing behaviors.
 
 My goal is to study how these environmental exposures interact with genetic predisposition and human body, to shape long-term trajectories of mental health and behavioral outcomes. In particular, I focus on understanding how these factors contribute to the development of mental health disorders over time.
 
