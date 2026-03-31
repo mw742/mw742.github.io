@@ -22,3 +22,12 @@ I then completed my Ph.D. in computational chemistry at University of Cambridge 
 However, I came to realize that developing therapeutic strategies requires not only understanding drug design, but also understanding disease mechanisms. The human body is a highly complex system, spanning multiple levels—from genes to cells to organs—and continuously interacting with the environment.
 
 My long-term goal is to contribute to the development of effective treatment and prevention strategies for complex diseases. To achieve this, I am currently expanding my expertise in bioinformatics and computational modeling.
+
+## Selected Honors & Awards
+
+- **Scripps Research Travel Award**, 2025  
+- **RSA Junior Investigator Award**, 2025  
+- **Outstanding Graduate of Beijing City**, 2018  
+- **Outstanding Graduate of Peking University**, 2018  
+- **National Scholarship of Peking University**, 2017  
+- **First-Class Academic Scholarship of Peking University**, 2017  
