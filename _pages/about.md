@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="justify">
+
 I am currently a postdoctoral researcher in computational neuroscience, genetic analysis, and machine learning at the Scripps Research Institute. My research focuses on developing quantitative models to understand human behavior.
 
 I view the human body as a complex system. Everything we see, hear, and experience acts as input. Our genes provide the basic information we carry, and the brain processes all inputs as a central system. Our behaviors are the output, shaped by both genetic factors and environmental influences.
@@ -28,6 +28,8 @@ I then completed my Ph.D. in computational chemistry at University of Cambridge 
 However, I came to realize that developing therapeutic strategies requires not only understanding drug design, but also understanding disease mechanisms. The human body is a highly complex system, spanning multiple levels—from genes to cells to organs—and continuously interacting with the environment.
 
 My long-term goal is to contribute to the development of effective treatment and prevention strategies for complex diseases. To achieve this, I am currently expanding my expertise in bioinformatics and computational modeling.
+
+04/02/2026
 
 ## Selected Honors & Awards
 
