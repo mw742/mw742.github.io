@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher in computational neuroscience, genetic analysis, and machine learning at :contentReference[oaicite:0]{index=0}. My research focuses on developing quantitative models to understand human behavior.
+I am currently a postdoctoral researcher in computational neuroscience, genetic analysis, and machine learning at the Scripps Research Institute. My research focuses on developing quantitative models to understand human behavior.
 
 I view the human body as a complex system. Genetic factors—including DNA variation, gene-based signals, and gene expression—form the biological foundation that influences traits such as physical strength, height, weight, and brain function. Building on this foundation, I incorporate environmental factors as key inputs and stimuli, including family upbringing, parental monitoring, peer influence, neighborhood conditions, and educational environments etc.
 
@@ -17,7 +17,7 @@ My current work focuses on developing tools to represent genetic risk, such as p
 
 My research journey began in the lab of Prof. Xinshan Ye at Peking University, where I worked on the development of carbohydrate-based therapeutic strategies. I am deeply grateful for the mentorship and guidance of Prof. Ye, whose rigorous scientific thinking and dedication to translational research greatly shaped my early academic development. Under his supervision, I developed a strong interest in understanding how molecules interact at the microscopic level and how these mechanisms can be quantitatively and rigorously characterized. This experience motivated me to pursue further training in computational and statistic methods.
 
-I then completed my Ph.D. in computational chemistry at :contentReference[oaicite:1]{index=1} under the supervision of Prof. Jonathan Goodman. I sincerely appreciate Prof. Goodman’s insightful mentorship, intellectual openness, and encouragement of independent thinking, which played a crucial role in shaping my research direction. My doctoral research focused on developing algorithms for molecular conformational searching, which is fundamental to understanding molecular properties and supports downstream computational simulations, including molecular mechanics (MM), quantum mechanics (QM), and machine learning–based approaches. During my Ph.D., I also gained valuable industry experience in machine learning–based drug discovery.
+I then completed my Ph.D. in computational chemistry at University of Cambridge under the supervision of Prof. Jonathan Goodman. I sincerely appreciate Prof. Goodman’s insightful mentorship, intellectual openness, and encouragement of independent thinking, which played a crucial role in shaping my research direction. My doctoral research focused on developing algorithms for molecular conformational searching, which is fundamental to understanding molecular properties and supports downstream computational simulations, including molecular mechanics (MM), quantum mechanics (QM), and machine learning–based approaches. During my Ph.D., I also gained valuable industry experience in machine learning–based drug discovery.
 
 However, I came to realize that developing therapeutic strategies requires not only understanding drug design, but also understanding disease mechanisms. The human body is a highly complex system, spanning multiple levels—from genes to cells to organs—and continuously interacting with the environment.
 
