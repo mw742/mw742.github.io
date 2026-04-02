@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Computational Neuroscience<br>Machine Learning"
   location         : "Earth"
-  employer         : #"Harvard University & Stanford University"
+  employer         : #""
   uri              : # URL
-  email            : #"mw742@harvard.edu; mw742@stanford.edu" 
+  email            : #"" 
 
   # Academic websites
   academia         : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0008-0458-7140"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
