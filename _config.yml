@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mengman Wei"
+title                    : "About"
 title_separator          : "-"
 name                     : #&name ""
 description              : #&description ""   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : #"Mengman Wei"
   pronouns         : # example: "she/her"  
-  bio              : "Computational Neuroscience, Genetics, Machine Learning"
+  bio              : "Computational Neuroscience, Machine Learning"
   location         : "Earth"
   employer         : #"Harvard University & Stanford University"
   uri              : # URL
